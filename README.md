@@ -1,7 +1,7 @@
 - ![HI](https://img.shields.io/badge/Hello-There-brightgreen?style=plastic), I’m @Rex28,nice to see you.
-- 👋 I’m interested in ![python](https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-blue?style=plastic&logo=Codecademy&logoColor=white)
+- 👋 I use ![python](https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-blue?style=plastic&logo=Codecademy&logoColor=white) to code.
 - 👀 I also know a little about ![html](https://img.shields.io/badge/-html-blue?style=plastic&logo=html5&logoColor=white) ![js](https://img.shields.io/badge/-javascript-blue?style=plastic&logo=javascript&logoColor=white) ![css](https://img.shields.io/badge/-css-blue?style=plastic&logo=css3&logoColor=white)
-- 🌱 I’m currently learning ![machine learning](https://img.shields.io/badge/machine-learning-blue?logo=googletranslate&logoColor=white)
+- 🌱 I’m intresting in ![machine learning](https://img.shields.io/badge/machine-learning-blue?logo=googletranslate&logoColor=white)
 
 ## MY STATISTICS
 ![States](https://github-readme-stats.vercel.app/api?username=StarryJia&count_private=true&theme=dracula)
