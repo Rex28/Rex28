@@ -1,4 +1,4 @@
-- ![HI](https://img.shields.io/badge/Hello-There-brightgreen?style=plastic), I’m @Rex28,nice to see you.
+- ![HI](https://img.shields.io/badge/Hello-There-brightgreen?style=plastic), I’m @StarryJia,nice to meet you.
 - 👋 I use ![python](https://img.shields.io/badge/python-blue?style=plastic&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-blue?style=plastic&logo=Codecademy&logoColor=white) to code.
 - 👀 I also know a little about ![html](https://img.shields.io/badge/-html-blue?style=plastic&logo=html5&logoColor=white) ![js](https://img.shields.io/badge/-javascript-blue?style=plastic&logo=javascript&logoColor=white) ![css](https://img.shields.io/badge/-css-blue?style=plastic&logo=css3&logoColor=white)
 - 🌱 I’m interesting in ![machine learning](https://img.shields.io/badge/machine-learning-blue?logo=googletranslate&logoColor=white)
